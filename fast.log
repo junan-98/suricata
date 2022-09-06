@@ -1,0 +1,179 @@
+09/06/2022-02:34:41.627358  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:56944 -> 223.130.195.200:443
+09/06/2022-02:34:41.669690  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:56946 -> 223.130.195.200:443
+09/06/2022-02:34:41.948246  [wDrop] [**] [1:10015:1] [ssl.pstatic.net]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53558 -> 125.209.254.202:443
+09/06/2022-02:34:43.405582  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49614 -> 223.130.200.97:443
+09/06/2022-02:34:43.435153  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:50230 -> 210.89.168.54:443
+09/06/2022-02:34:43.640361  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:37236 -> 210.89.168.38:443
+09/06/2022-02:34:43.718656  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53154 -> 125.209.230.238:443
+09/06/2022-02:34:43.718656  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53154 -> 125.209.230.238:443
+09/06/2022-02:34:44.164847  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48096 -> 223.130.192.205:443
+09/06/2022-02:34:44.164847  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48096 -> 223.130.192.205:443
+09/06/2022-02:34:44.167291  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48098 -> 223.130.192.205:443
+09/06/2022-02:34:44.167291  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48098 -> 223.130.192.205:443
+09/06/2022-02:34:44.191863  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48100 -> 223.130.192.205:443
+09/06/2022-02:34:44.191863  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48100 -> 223.130.192.205:443
+09/06/2022-02:34:44.515385  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:51630 -> 210.89.168.79:443
+09/06/2022-02:34:44.664924  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:51632 -> 210.89.168.79:443
+09/06/2022-02:35:10.519952  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53832 -> 175.116.97.147:80
+09/06/2022-02:35:10.842953  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53836 -> 175.116.97.147:80
+09/06/2022-02:35:10.905205  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53834 -> 175.116.97.147:80
+09/06/2022-02:35:11.176800  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53836 -> 175.116.97.147:80
+09/06/2022-02:35:11.224980  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53832 -> 175.116.97.147:80
+09/06/2022-02:35:11.576454  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53834 -> 175.116.97.147:80
+09/06/2022-02:35:11.954827  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53832 -> 175.116.97.147:80
+09/06/2022-02:35:12.552133  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53834 -> 175.116.97.147:80
+09/06/2022-02:35:20.774245  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49760 -> 125.209.230.238:443
+09/06/2022-02:35:20.774245  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49760 -> 125.209.230.238:443
+09/06/2022-02:35:20.982537  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43268 -> 223.130.192.205:443
+09/06/2022-02:35:20.982537  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43268 -> 223.130.192.205:443
+09/06/2022-02:35:21.041777  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43270 -> 223.130.192.205:443
+09/06/2022-02:35:21.041777  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43270 -> 223.130.192.205:443
+09/06/2022-02:35:24.189220  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55348 -> 182.162.202.180:443
+09/06/2022-02:35:24.189220  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55348 -> 182.162.202.180:443
+09/06/2022-02:35:24.198508  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:33238 -> 210.89.168.33:443
+09/06/2022-02:35:25.660567  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55470 -> 223.130.195.167:443
+09/06/2022-02:35:25.688917  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57852 -> 125.209.230.238:443
+09/06/2022-02:35:25.688917  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57852 -> 125.209.230.238:443
+09/06/2022-02:35:26.186559  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:34368 -> 182.162.202.180:443
+09/06/2022-02:35:26.186559  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:34368 -> 182.162.202.180:443
+09/06/2022-02:35:29.436135  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55478 -> 223.130.195.167:443
+09/06/2022-02:35:29.462933  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57860 -> 125.209.230.238:443
+09/06/2022-02:35:29.462933  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57860 -> 125.209.230.238:443
+09/06/2022-02:35:34.798588  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:42564 -> 223.130.195.167:443
+09/06/2022-02:35:34.822251  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43660 -> 125.209.230.238:443
+09/06/2022-02:35:34.822251  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43660 -> 125.209.230.238:443
+09/06/2022-02:35:34.904644  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:58282 -> 223.130.192.205:443
+09/06/2022-02:35:34.904644  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:58282 -> 223.130.192.205:443
+09/06/2022-02:35:36.961864  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43664 -> 125.209.230.238:443
+09/06/2022-02:35:36.961864  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43664 -> 125.209.230.238:443
+09/06/2022-02:35:37.609875  [wDrop] [**] [1:10013:1] [tivan.naver.com]ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:58286 -> 223.130.192.205:443
+09/06/2022-02:35:37.609875  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:58286 -> 223.130.192.205:443
+09/06/2022-02:36:58.184441  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:40628 -> 223.130.200.104:443
+09/06/2022-02:37:28.058587  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45844 -> 121.53.105.159:443
+09/06/2022-02:37:28.496770  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43646 -> 110.93.147.30:443
+09/06/2022-02:43:13.246284  [**] [1:10020:1] www.disneyplus.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53256 -> 104.74.187.206:443
+09/06/2022-02:43:13.246326  [**] [1:10020:1] www.disneyplus.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:53258 -> 104.74.187.206:443
+09/06/2022-02:43:14.755771  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:37540 -> 121.53.105.159:443
+09/06/2022-02:43:15.592560  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48100 -> 110.93.147.30:443
+09/06/2022-02:43:20.673074  [**] [1:10008:1] watcha.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57764 -> 3.38.39.204:443
+09/06/2022-02:43:20.683165  [**] [1:10008:1] watcha.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57766 -> 3.38.39.204:443
+09/06/2022-02:43:22.181711  [**] [1:10008:1] watcha.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49134 -> 3.39.163.243:443
+09/06/2022-02:43:23.024189  [**] [1:10008:1] watcha.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:57782 -> 3.38.39.204:443
+09/06/2022-02:43:26.800973  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:48904 -> 44.240.158.19:443
+09/06/2022-02:43:26.802209  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45790 -> 52.38.7.83:443
+09/06/2022-02:43:29.709188  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45796 -> 52.38.7.83:443
+09/06/2022-02:43:29.753825  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:42732 -> 54.149.160.167:443
+09/06/2022-02:43:30.389864  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:42734 -> 54.149.160.167:443
+09/06/2022-02:44:00.130512  [wDrop] [**] [1:10015:1] [ssl.pstatic.net]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:44866 -> 125.209.254.196:443
+09/06/2022-02:44:01.131197  [wDrop] [**] [1:10015:1] [ssl.pstatic.net]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:44868 -> 125.209.254.196:443
+09/06/2022-02:44:01.149365  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:41852 -> 223.130.200.107:443
+09/06/2022-02:44:01.284201  [wDrop] [**] [1:10015:1] [ssl.pstatic.net]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:44872 -> 125.209.254.196:443
+09/06/2022-02:44:02.456507  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:42250 -> 210.89.168.70:443
+09/06/2022-02:44:02.759373  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49830 -> 125.209.230.238:443
+09/06/2022-02:44:02.759373  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49830 -> 125.209.230.238:443
+09/06/2022-02:44:03.024484  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43284 -> 223.130.192.205:443
+09/06/2022-02:44:03.024484  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43284 -> 223.130.192.205:443
+09/06/2022-02:44:03.037162  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43286 -> 223.130.192.205:443
+09/06/2022-02:44:03.037162  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43286 -> 223.130.192.205:443
+09/06/2022-02:44:03.736416  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:51176 -> 210.89.168.79:443
+09/06/2022-02:44:03.796352  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:51178 -> 210.89.168.79:443
+09/06/2022-02:44:08.315885  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:50466 -> 125.209.210.116:443
+09/06/2022-02:44:08.315885  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:50466 -> 125.209.210.116:443
+09/06/2022-02:44:08.321435  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:37190 -> 210.89.168.68:443
+09/06/2022-02:44:08.321435  [**] [1:10009:1] naver dictionary access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:37190 -> 210.89.168.68:443
+09/06/2022-02:44:09.129421  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:46130 -> 223.130.195.167:443
+09/06/2022-02:44:09.140773  [wDrop] [**] [1:10015:1] [ssl.pstatic.net]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:36902 -> 125.209.254.196:443
+09/06/2022-02:44:09.506367  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:38672 -> 125.209.230.238:443
+09/06/2022-02:44:09.506367  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:38672 -> 125.209.230.238:443
+09/06/2022-02:44:11.884175  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:38674 -> 125.209.230.238:443
+09/06/2022-02:44:11.884175  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:38674 -> 125.209.230.238:443
+09/06/2022-02:44:12.161456  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54104 -> 223.130.192.205:443
+09/06/2022-02:44:12.161456  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54104 -> 223.130.192.205:443
+09/06/2022-02:44:12.222307  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54106 -> 223.130.192.205:443
+09/06/2022-02:44:12.222307  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54106 -> 223.130.192.205:443
+09/06/2022-02:44:12.691558  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:50484 -> 125.209.210.116:443
+09/06/2022-02:44:12.691558  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:50484 -> 125.209.210.116:443
+09/06/2022-02:44:12.738258  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54618 -> 210.89.168.33:443
+09/06/2022-02:44:12.738258  [**] [1:10011:1] naver news access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54618 -> 210.89.168.33:443
+09/06/2022-02:44:12.750697  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55348 -> 175.158.5.162:443
+09/06/2022-02:44:13.961029  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:34244 -> 210.89.168.49:443
+09/06/2022-02:44:14.592926  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:56838 -> 223.130.195.167:443
+09/06/2022-02:44:14.653785  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55968 -> 125.209.230.238:443
+09/06/2022-02:44:14.653785  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:55968 -> 125.209.230.238:443
+09/06/2022-02:44:15.204630  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54114 -> 125.209.210.116:443
+09/06/2022-02:44:15.204630  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54114 -> 125.209.210.116:443
+09/06/2022-02:44:15.205894  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54112 -> 125.209.210.116:443
+09/06/2022-02:44:15.205894  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54112 -> 125.209.210.116:443
+09/06/2022-02:44:16.996515  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45318 -> 210.89.167.4:443
+09/06/2022-02:44:17.049514  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45320 -> 210.89.167.4:443
+09/06/2022-02:44:19.257423  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:33988 -> 117.52.137.138:443
+09/06/2022-02:44:19.274957  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:35604 -> 223.130.192.205:443
+09/06/2022-02:44:19.274957  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:35604 -> 223.130.192.205:443
+09/06/2022-02:44:19.278567  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:35606 -> 223.130.192.205:443
+09/06/2022-02:44:19.278567  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:35606 -> 223.130.192.205:443
+09/06/2022-02:44:20.986063  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45726 -> 223.130.196.26:443
+09/06/2022-02:44:21.583105  [**] [1:10012:1] naver livecloud access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45538 -> 211.47.28.53:443
+09/06/2022-02:44:26.173851  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:39284 -> 125.209.230.238:443
+09/06/2022-02:44:26.173851  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:39284 -> 125.209.230.238:443
+09/06/2022-02:44:26.581338  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52454 -> 223.130.192.205:443
+09/06/2022-02:44:26.581338  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52454 -> 223.130.192.205:443
+09/06/2022-02:44:30.439492  [**] [1:10016:1] tistory accesss [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45720 -> 121.53.105.234:443
+09/06/2022-02:44:30.440012  [**] [1:10016:1] tistory accesss [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45722 -> 121.53.105.234:443
+09/06/2022-02:44:31.776195  [**] [1:10016:1] tistory accesss [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:47938 -> 211.249.220.83:443
+09/06/2022-02:44:32.053812  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54404 -> 121.53.105.246:443
+09/06/2022-02:44:34.402257  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52216 -> 121.53.105.193:443
+09/06/2022-02:44:34.403021  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52218 -> 121.53.105.193:443
+09/06/2022-02:44:34.949598  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:33628 -> 121.53.105.132:443
+09/06/2022-02:44:35.124714  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43776 -> 211.231.99.14:443
+09/06/2022-02:44:36.647155  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:32988 -> 110.76.141.134:443
+09/06/2022-02:44:36.648139  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:32992 -> 110.76.141.134:443
+09/06/2022-02:44:36.649277  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:32990 -> 110.76.141.134:443
+09/06/2022-02:44:36.652192  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:32994 -> 110.76.141.134:443
+09/06/2022-02:44:36.745725  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43788 -> 211.231.99.14:443
+09/06/2022-02:44:36.760513  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43790 -> 211.231.99.14:443
+09/06/2022-02:44:36.789235  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43792 -> 211.231.99.14:443
+09/06/2022-02:44:36.794983  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43794 -> 211.231.99.14:443
+09/06/2022-02:44:36.797344  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43796 -> 211.231.99.14:443
+09/06/2022-02:44:36.798220  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43798 -> 211.231.99.14:443
+09/06/2022-02:44:36.827145  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43786 -> 211.231.99.248:443
+09/06/2022-02:44:36.935533  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43802 -> 211.231.99.14:443
+09/06/2022-02:44:37.634153  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:59804 -> 211.249.221.119:443
+09/06/2022-02:44:38.530506  [**] [1:10017:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:36238 -> 121.53.105.196:443
+09/06/2022-02:44:39.737135  [**] [1:10018:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:47626 -> 20.200.245.247:443
+09/06/2022-02:44:41.592330  [**] [1:10018:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:58076 -> 140.82.113.21:443
+09/06/2022-02:44:43.515756  [**] [1:10019:1] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:39314 -> 172.65.251.78:443
+09/06/2022-02:44:43.837578  [**] [1:10019:1] gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:37588 -> 151.101.194.49:443
+09/06/2022-02:44:45.231872  [**] [1:10018:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45628 -> 20.200.245.245:443
+09/06/2022-02:44:51.106988  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:46974 -> 125.209.230.238:443
+09/06/2022-02:44:51.106988  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:46974 -> 125.209.230.238:443
+09/06/2022-02:44:51.417949  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45488 -> 223.130.192.205:443
+09/06/2022-02:44:51.417949  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45488 -> 223.130.192.205:443
+09/06/2022-02:44:51.436169  [wDrop] [**] [1:10013:1] [tivan.naver.com]is ad blocked? [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45490 -> 223.130.192.205:443
+09/06/2022-02:44:51.436169  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45490 -> 223.130.192.205:443
+09/06/2022-02:44:53.297508  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:40194 -> 175.158.5.164:443
+09/06/2022-02:44:53.297508  [**] [1:10011:1] naver news access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:40194 -> 175.158.5.164:443
+09/06/2022-02:44:54.634095  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52950 -> 117.52.137.137:443
+09/06/2022-02:44:54.634095  [**] [1:10010:1] naver news access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52950 -> 117.52.137.137:443
+09/06/2022-02:44:54.634095  [**] [1:10011:1] naver news access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:52950 -> 117.52.137.137:443
+09/06/2022-02:44:54.634337  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:36438 -> 125.209.230.238:443
+09/06/2022-02:44:54.634337  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:36438 -> 125.209.230.238:443
+09/06/2022-02:44:54.833512  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:51372 -> 223.130.195.167:443
+09/06/2022-02:44:56.479730  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:34246 -> 125.209.210.116:443
+09/06/2022-02:44:56.479730  [**] [1:10006:1] naver webtoon access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:34246 -> 125.209.210.116:443
+09/06/2022-02:44:58.008144  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:36446 -> 125.209.230.238:443
+09/06/2022-02:44:58.008144  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:36446 -> 125.209.230.238:443
+09/06/2022-02:44:58.161692  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:51378 -> 223.130.195.167:443
+09/06/2022-02:49:04.331976  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45010 -> 210.89.168.37:443
+09/06/2022-02:49:04.331976  [**] [1:10014:1] junior naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:45010 -> 210.89.168.37:443
+09/06/2022-02:49:04.668496  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:33618 -> 110.93.147.5:443
+09/06/2022-02:49:04.705589  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54088 -> 125.209.230.238:443
+09/06/2022-02:49:04.705589  [**] [1:10005:1] naver local server time access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:54088 -> 125.209.230.238:443
+09/06/2022-02:49:04.778224  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:56664 -> 210.89.168.37:443
+09/06/2022-02:49:04.778224  [**] [1:10014:1] junior naver access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:56664 -> 210.89.168.37:443
+09/06/2022-02:49:04.789946  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:33624 -> 110.93.147.5:443
+09/06/2022-02:49:05.710826  [**] [1:10004:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:41650 -> 175.158.5.165:443
+09/06/2022-02:49:21.760205  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:60902 -> 44.237.234.25:443
+09/06/2022-02:50:18.516189  [**] [1:10003:1] qt.io access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:50446 -> 52.18.144.254:80
+09/06/2022-02:50:26.352141  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:49542 -> 52.38.7.83:80
+09/06/2022-02:50:26.695091  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:43082 -> 44.240.158.19:443
+09/06/2022-02:50:27.414441  [**] [1:10007:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.87.153:42350 -> 44.234.232.238:443
